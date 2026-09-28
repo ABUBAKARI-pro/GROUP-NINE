@@ -1,0 +1,1 @@
+Use this folder for coursework documentation if required.
